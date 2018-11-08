@@ -1,0 +1,11 @@
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/bin/Debug/netcoreapp2.1/test.deps.json
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/bin/Debug/netcoreapp2.1/test.dll
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/bin/Debug/netcoreapp2.1/test.pdb
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/obj/Debug/netcoreapp2.1/test.dll
+/Users/rubenmaesfranckx1/Desktop/slicing_CSSE/test/obj/Debug/netcoreapp2.1/test.pdb
